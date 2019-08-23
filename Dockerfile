@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Jackson Araujo de Lima
+MAINTAINER andre luiz
 
 RUN apt-get update
 
